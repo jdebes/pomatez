@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.3.0](https://github.com/jdebes/pomatez/compare/v1.2.3...v1.3.0) (2023-06-11)
+
+
+### Features ✨
+
+* increase maximum focus time to 2 hours ([#383](https://github.com/jdebes/pomatez/issues/383)) ([3fc1493](https://github.com/jdebes/pomatez/commit/3fc14937ee4b08e74390fbd36eb115278f55f179))
+
+
+### Bug Fixes 🐛
+
+* **app/renderer:** fix linter warnings that causes CI test build failing ([26edd59](https://github.com/jdebes/pomatez/commit/26edd59b26155954208fafc0dc3d933501c11bc9))
+* disable dragging for navigation links ([#387](https://github.com/jdebes/pomatez/issues/387)) ([a5b147f](https://github.com/jdebes/pomatez/commit/a5b147fbac812b2be6e92ce218841bfebe29d790))
+* Set Application Menu to Fix Mac Shortcuts ([0e6d47f](https://github.com/jdebes/pomatez/commit/0e6d47f0eb166256f914494518b4ea9e63160c06))
+
 ## [1.2.3](https://github.com/zidoro/pomatez/compare/v1.2.2...v1.2.3) (2023-05-03)
 
 
